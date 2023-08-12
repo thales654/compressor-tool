@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompressorTool.UI", "CompressorTool.UI\CompressorTool.UI.csproj", "{35653EFC-4B47-443E-89EB-02699847FB96}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CompressorTool.Installer", "CompressorTool.Installer\CompressorTool.Installer.vdproj", "{5E956634-FA19-4B6E-A64D-72B82E373B2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35653EFC-4B47-443E-89EB-02699847FB96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35653EFC-4B47-443E-89EB-02699847FB96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35653EFC-4B47-443E-89EB-02699847FB96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35653EFC-4B47-443E-89EB-02699847FB96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E956634-FA19-4B6E-A64D-72B82E373B2F}.Debug|Any CPU.ActiveCfg = Debug
+		{5E956634-FA19-4B6E-A64D-72B82E373B2F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
